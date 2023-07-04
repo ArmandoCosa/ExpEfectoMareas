@@ -1,2 +1,11 @@
-# ExpEfectoMareas
-Experimento realizado sobre simulador llamado Universe Sandbox.
+Universe Sandbox es una herramienta de software fascinante que combina la física precisa con una interfaz amigable para ofrecer una experiencia educativa y entretenida. Sin embargo, es importante destacar que Universe Sandbox está diseñado principalmente para fines educativos y divulgativos, y no debe considerarse como un programa científico riguroso.
+
+Si bien Universe Sandbox se basa en principios y modelos científicos, es importante tener en cuenta que simplifica y abstrae la realidad del universo para hacerlo accesible y comprensible para un público general. Los eventos y fenómenos astronómicos que ocurren en el programa no siempre reflejan con exactitud la complejidad y la diversidad del universo real.
+
+Además, aunque Universe Sandbox utiliza datos y parámetros científicos actualizados para simular el movimiento de los cuerpos celestes, existen limitaciones inherentes a cualquier modelo de simulación. Estas limitaciones pueden resultar en discrepancias y desviaciones en ciertos aspectos astronómicos. Por lo tanto, se recomienda utilizar Universe Sandbox como una herramienta educativa para explorar conceptos generales y desarrollar una comprensión básica de los procesos celestiales.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Universe Sandbox is a fascinating software tool that combines accurate physics with a user-friendly interface to provide an educational and entertaining experience. However, it is important to note that Universe Sandbox is primarily designed for educational and outreach purposes and should not be considered as a rigorously scientific program.
+
+While Universe Sandbox is based on scientific principles and models, it is important to recognize that it simplifies and abstracts the reality of the universe to make it accessible and understandable for a general audience. The astronomical events and phenomena that occur in the program do not always accurately reflect the complexity and diversity of the real universe.
+
+Furthermore, although Universe Sandbox uses updated scientific data and parameters to simulate the motion of celestial bodies, there are inherent limitations to any simulation model. These limitations can result in discrepancies and deviations in certain astronomical aspects. Therefore, it is recommended to use Universe Sandbox as an educational tool to explore general concepts and develop a basic understanding of celestial processes.
